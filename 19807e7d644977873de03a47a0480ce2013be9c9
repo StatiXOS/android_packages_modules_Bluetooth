@@ -16,6 +16,23 @@
       "message": "verified on rmp",
       "revId": "19807e7d644977873de03a47a0480ce2013be9c9",
       "serverId": "039621b9-0c7c-40f3-867c-684f4bc911d6"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "110e66bd_525bb2c0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-02-08T13:57:42Z",
+      "side": 1,
+      "message": "no breakage on oriole",
+      "revId": "19807e7d644977873de03a47a0480ce2013be9c9",
+      "serverId": "039621b9-0c7c-40f3-867c-684f4bc911d6"
     }
   ]
 }
